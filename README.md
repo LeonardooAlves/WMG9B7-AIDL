@@ -3,7 +3,7 @@ WMG MSc Applied Artificial Intelligence - Artificial Intelligence &amp; Deep Lea
 
 ## Hands-On Tutorials Repository
 
-[![Module Code](https://img.shields.io/badge/Module-WM9G1--15-blue)](https://courses.warwick.ac.uk/modules/2025/WM9B7-15)
+[![Module Code](https://img.shields.io/badge/Module-WM9B7--15-blue)](https://courses.warwick.ac.uk/modules/2025/WM9B7-15)
 [![Credits](https://img.shields.io/badge/Credits-15-green)]()
 [![Level](https://img.shields.io/badge/Level-Postgraduate-orange)]()
 [![Duration](https://img.shields.io/badge/Duration-4%20Weeks-purple)]()
