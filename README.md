@@ -12,7 +12,7 @@ WMG MSc Applied Artificial Intelligence - Artificial Intelligence &amp; Deep Lea
 
 ## About This Module
 
-Welcome to the **Artificial Intelligence &amp; Deep Learning** module repository! This collection of hands-on tutorials is designed to complement your learning journey through the principles, challenges, and opportunities that Deep Learning brings.
+Welcome to the **Artificial Intelligence &amp; Deep Learning** module repository! This collection of hands-on tutorials is designed to complement your learning journey through the principles, challenges, and opportunities that Deep Learning brings. Moodle Page: https://moodle.warwick.ac.uk/course/view.php?id=71410.
 
 ### Module Overview
 
